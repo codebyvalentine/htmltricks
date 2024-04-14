@@ -1,0 +1,19 @@
+    <!-- Meta data preset -->
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="max-image-preview:large" />
+    <meta name="description" content="Your description here">
+    <meta name="keywords" content="Your keywords here">
+<!-- For twitter -->
+    <meta name="twitter:title" content="Your title here">
+    <meta name="twitter:description" content="Your description here">
+    <meta name="twitter:image" content="Your image link here">
+    <meta name="twitter:card" content="summary_large_image">
+<!--  For opengraph or facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="Ypur website link" />
+    <meta property="og:title" content="Your title" />
+    <meta property="og:description" content="Your description here" />
+    <meta property="og:image" content="Your image link here" /> 
+    
